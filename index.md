@@ -1,13 +1,14 @@
-Index
+01_primer
 ================
 Elena Montero Solís
 2026-11-19
 
 ## R Markdown
 
-This is an R Markdown document. Markdown is a simple formatting syntax
-for authoring HTML, PDF, and MS Word documents. For more details on
-using R Markdown see <http://rmarkdown.rstudio.com>.
+Hola por ejemplo no sé la vida es chula, qué locura tintiwinki! This is
+an R Markdown document. Markdown is a simple formatting syntax for
+authoring HTML, PDF, and MS Word documents. For more details on using R
+Markdown see <http://rmarkdown.rstudio.com>.
 
 When you click the **Knit** button a document will be generated that
 includes both content as well as the output of any embedded R code
@@ -24,6 +25,12 @@ summary(cars)
     ##  Mean   :15.4   Mean   : 42.98  
     ##  3rd Qu.:19.0   3rd Qu.: 56.00  
     ##  Max.   :25.0   Max.   :120.00
+
+``` r
+plot(cars)
+```
+
+![](index_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
 
 ## Including Plots
 
